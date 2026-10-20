@@ -4,8 +4,8 @@ Tabla actualizada por última vez: **20 de octubre de 2026**
 
 | Nombre de la aplicación | Versión de la aplicación | Compras restauradas |
 |----------|-------------|--------------------|
-| [Notas simplificadas](https://apps.apple.com/app/1589669393) | 2.1 | 100% |
 | [Limpiador web](https://apps.apple.com/app/6739527003) | 3.6 | 100% |
+| [Notas simplificadas](https://apps.apple.com/app/1589669393) | 2.1 | 100% |
 
 ## Importante
 
